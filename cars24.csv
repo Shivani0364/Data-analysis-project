@@ -1,0 +1,207 @@
+,Year of manufacture,Make,Model,Transmission type,Km driven,Fuel type,Price (in Rs)
+0,2017,Maruti,Swift Dzire ZXI,Manual,36953,Petrol,490000
+1,2014,Maruti,Ertiga VXI CNG,Manual,70348,CNG,620000
+2,2018,Maruti,Dzire VXI AMT,Automatic,51852,Petrol,574000
+3,2014,Maruti,Swift Dzire ZDI,Manual,11144,Diesel,613000
+4,2012,Maruti,Wagon R 1.0 VXI,Manual,42425,Petrol,238000
+5,2015,Maruti,Wagon R 1.0 LXI CNG,Manual,79837,CNG,364000
+6,2022,Maruti,Ertiga ZXI (O) CNG,Manual,20619,CNG,1192000
+7,2016,Maruti,Baleno DELTA DIESEL 1.3,Manual,62767,Diesel,557000
+8,2016,Maruti,Celerio ZXI AMT,Automatic,76727,Petrol,405000
+9,2017,Maruti,Baleno ZETA PETROL 1.2,Manual,40995,Petrol,579000
+10,2016,Maruti,Baleno DELTA PETROL 1.2,Manual,59679,Petrol,499000
+11,2016,Maruti,Baleno DELTA PETROL 1.2,Manual,43273,Petrol,505000
+12,2017,Maruti,Celerio VXI CNG,Manual,85712,CNG,403000
+13,2017,Maruti,Wagon R 1.0 LXI CNG,Manual,56359,CNG,398000
+14,2013,Maruti,Ertiga VXI,Manual,42588,Petrol,537000
+15,2021,Maruti,Ciaz DELTA 1.5 SHVS MT PETROL,Manual,30926,Petrol,798000
+16,2016,Maruti,Vitara Brezza ZDI PLUS DUAL TONE,Manual,99679,Diesel,733000
+17,2013,Maruti,Wagon R 1.0 LXI,Manual,21606,Petrol,296000
+18,2020,Maruti,Baleno DELTA PETROL 1.2,Manual,33723,Petrol,621000
+19,2015,Maruti,Ertiga ZXI,Manual,48033,Petrol,687000
+20,2014,Maruti,Wagon R 1.0 LXI CNG,Manual,99498,CNG,313000
+21,2014,Maruti,Swift VXI,Manual,29876,Petrol,413000
+22,2022,Maruti,XL6 ZETA MT,Manual,9626,Petrol,990000
+23,2014,Maruti,Swift VXI,Manual,53120,Petrol,392000
+24,2013,Maruti,Wagon R 1.0 LXI CNG,Manual,80601,CNG,292000
+25,2013,Maruti,Wagon R 1.0 VXI,Manual,44412,Petrol,285000
+26,2020,Maruti,New Wagon-R VXI 1.2,Manual,20785,Petrol,538000
+27,2019,Maruti,Celerio VXI CNG,Manual,35436,CNG,557000
+28,2017,Maruti,Wagon R 1.0 VXI,Manual,34793,Petrol,401000
+29,2017,Maruti,Wagon R 1.0 VXI,Manual,22280,Petrol,395000
+30,2016,Maruti,Baleno ZETA PETROL 1.2,Manual,56794,Petrol,508000
+31,2018,Maruti,Swift VXI AMT,Automatic,41110,Petrol,552000
+32,2019,Maruti,New Wagon-R VXI (O) 1.2,Manual,25824,Petrol,528000
+33,2015,Maruti,Swift Dzire VXI,Manual,84530,Petrol,369000
+34,2020,Maruti,Baleno DELTA PETROL 1.2,Manual,29044,Petrol,594000
+35,2015,Maruti,Wagon R 1.0 LXI CNG,Manual,70628,CNG,323000
+36,2017,Maruti,Baleno ZETA PETROL 1.2,Manual,49544,Petrol,454000
+37,2019,Maruti,New Wagon-R VXI 1.2,Manual,11829,Petrol,511000
+38,2014,Maruti,Alto 800 LXI CNG,Manual,12529,CNG,246000
+39,2017,Maruti,Celerio ZXI AMT,Automatic,42234,Petrol,420000
+40,2016,Maruti,Wagon R 1.0 VXI,Manual,51265,Petrol,355000
+41,2017,Maruti,Baleno DELTA PETROL 1.2,Manual,35708,Petrol,541000
+42,2019,Maruti,Baleno DELTA CVT PETROL 1.2,Automatic,16547,Petrol,600000
+43,2014,Maruti,Celerio VXI,Manual,65485,Petrol,299000
+44,2020,Maruti,IGNIS ALPHA 1.2,Manual,20435,Petrol,573000
+45,2011,Maruti,Swift ZXI,Manual,67725,Petrol,297000
+46,2015,Maruti,Swift VXI,Manual,76928,Petrol,396000
+47,2015,Maruti,Alto K10 VXI AMT,Automatic,50280,Petrol,288000
+48,2016,Maruti,Vitara Brezza ZDI PLUS,Manual,85156,Diesel,614000
+49,2015,Maruti,Ciaz ZXI,Manual,85628,Petrol,488999
+50,2017,Maruti,Vitara Brezza VDI,Manual,53140,Diesel,662000
+51,2017,Maruti,Ciaz ZDI+ SHVS,Manual,61662,Diesel,592000
+52,2017,Maruti,Ciaz ZDI+ SHVS,Manual,75584,Diesel,606000
+53,2015,Maruti,Wagon R 1.0 LXI CNG,Manual,30014,CNG,365000
+54,2013,Maruti,Swift VXI,Manual,56039,Petrol,347000
+55,2016,Maruti,Baleno DELTA PETROL 1.2,Manual,62766,CNG,482000
+56,2012,Maruti,Swift VXI,Manual,52202,Petrol,295000
+57,2017,Maruti,Ertiga VXI CNG,Manual,72571,CNG,756000
+58,2018,Maruti,Wagon R 1.0 VXI AMT,Automatic,34473,Petrol,374000
+59,2018,Maruti,Celerio VXI CNG,Manual,93779,CNG,381000
+60,2012,Maruti,Wagon R 1.0 VXI,Manual,30184,Petrol,241000
+61,2016,Maruti,Vitara Brezza ZDI PLUS,Manual,74960,Diesel,636000
+62,2020,Maruti,Dzire ZXI PLUS AMT,Automatic,55907,Petrol,598000
+63,2016,Maruti,Swift Dzire VXI,Manual,49757,Petrol,451999
+64,2017,Maruti,Dzire ZDI PLUS,Manual,92625,Diesel,619000
+65,2017,Maruti,Baleno ALPHA DIESEL 1.3,Manual,73436,Diesel,556000
+66,2023,Maruti,Dzire ZXI Plus AMT,Automatic,12473,Petrol,844999
+67,2020,Maruti,Celerio ZXI,Manual,23043,Petrol,401000
+68,2013,Maruti,Wagon R Stingray VXI,Manual,35954,Petrol,299000
+69,2022,Maruti,BREZZA ZXI SMART HYBRID ,Manual,5377,Petrol,1183000
+70,2016,Maruti,Baleno DELTA CVT PETROL 1.2,Automatic,33929,Petrol,526000
+71,2020,Maruti,S Cross ALPHA 1.5 SMART HYBRID,Manual,52649,Petrol,906000
+72,2016,Maruti,Ertiga VDI SHVS,Manual,83271,Diesel,704000
+73,2015,Maruti,Baleno ZETA DIESEL 1.3,Manual,56687,Diesel,592000
+74,2016,Maruti,Alto 800 LXI,Manual,45935,Petrol,250999
+75,2012,Maruti,Swift VXI,Manual,15045,Petrol,321000
+76,2014,Maruti,Celerio VXI AMT,Automatic,76296,Petrol,318000
+77,2017,Maruti,Celerio VXI,Manual,34454,Petrol,380000
+78,2014,Maruti,Swift VDI,Manual,83006,Diesel,443000
+79,2016,Maruti,Swift VXI O,Manual,35970,Petrol,443000
+80,2014,Maruti,Swift Dzire ZDI,Manual,114899,Diesel,475000
+81,2017,Maruti,Wagon R 1.0 VXI AMT,Automatic,65216,Petrol,363000
+82,2020,Maruti,Ciaz S 1.5 MT PETROL,Manual,42676,Petrol,744000
+83,2019,Maruti,New Wagon-R LXI CNG 1.0,Manual,66684,CNG,491000
+84,2017,Maruti,Baleno ZETA CVT PETROL 1.2,Automatic,77650,Petrol,521000
+85,2020,Maruti,S PRESSO VXI CNG,Manual,66992,CNG,413999
+86,2018,Maruti,Baleno ALPHA CVT PETROL 1.2,Automatic,88309,Petrol,564000
+87,2018,Maruti,Celerio VXI CNG,Manual,74536,CNG,401999
+88,2022,Maruti,BREZZA ZXI SMART HYBRID DUAL TONE,Manual,11537,Petrol,1145000
+89,2016,Maruti,Baleno ZETA PETROL 1.2,Manual,46564,Petrol,500000
+90,2021,Maruti,New Wagon-R LXI CNG 1.0,Manual,23233,CNG,581000
+91,2019,Maruti,Baleno ZETA CVT PETROL 1.2,Automatic,24684,Petrol,708000
+92,2015,Maruti,Celerio VXI CNG,Manual,52929,CNG,383000
+93,2015,Maruti,Wagon R 1.0 VXI AMT,Automatic,95214,Petrol,313000
+94,2012,Maruti,Swift Dzire ZXI,Manual,60719,Petrol,357000
+95,2014,Maruti,Celerio VXI,Manual,66046,Petrol,305000
+96,2017,Maruti,Celerio VXI CNG,Manual,79682,CNG,415000
+97,2020,Maruti,Ciaz ALPHA  AT 1.5 SHVS PETROL,Automatic,27994,Petrol,831000
+98,2014,Maruti,Ciaz VDI,Manual,60880,Diesel,517000
+99,2017,Maruti,Swift VXI,Manual,47322,Petrol,517000
+100,2019,Maruti,IGNIS DELTA 1.2,Manual,37783,Petrol,426000
+101,2019,Maruti,Ciaz ALPHA  AT 1.5 SHVS PETROL,Automatic,66269,Petrol,680000
+102,2021,Maruti,New Wagon-R LXI CNG (O) 1.0,Manual,13106,CNG,622000
+103,2017,Maruti,Swift VXI,Manual,57535,Petrol,492000
+104,2021,Maruti,New Wagon-R LXI CNG 1.0,Manual,19622,CNG,623000
+105,2017,Maruti,Wagon R 1.0 LXI CNG,Manual,62850,CNG,359000
+106,2017,Maruti,Baleno ALPHA CVT PETROL 1.2,Automatic,46651,Petrol,525000
+107,2019,Maruti,S Cross ZETA 1.3,Manual,60678,Diesel,803999
+108,2018,Maruti,Ciaz ZETA 1.5 SHVS MT PETROL,Manual,18001,Petrol,740000
+109,2012,Maruti,Wagon R 1.0 VXI,Manual,43569,Petrol,249000
+110,2016,Maruti,Celerio ZXI,Manual,33655,Petrol,373000
+111,2023,Maruti,BREZZA ZXI SMART HYBRID ,Manual,10234,Petrol,1256000
+112,2014,Maruti,Wagon R 1.0 LXI,Manual,67447,Petrol,297000
+113,2017,Maruti,Dzire VDI AMT,Automatic,36258,Diesel,628000
+114,2021,Maruti,New Wagon-R LXI CNG 1.0,Manual,26725,CNG,596000
+115,2019,Maruti,Ciaz DELTA 1.5 SHVS MT PETROL,Manual,11299,Petrol,723000
+116,2014,Maruti,Wagon R 1.0 LXI CNG,Manual,78445,CNG,307000
+117,2017,Maruti,Celerio ZXI,Manual,27882,Petrol,411000
+118,2020,Maruti,S Cross ALPHA AT SMART HYBRID,Automatic,29624,Petrol,1026000
+119,2019,Maruti,S Cross ZETA 1.3,Manual,50117,Diesel,833000
+120,2018,Maruti,Baleno ZETA PETROL 1.2,Manual,54530,Petrol,518000
+121,2021,Maruti,S PRESSO VXI+,Manual,12655,Petrol,405000
+122,2018,Maruti,Ciaz ZETA 1.4  AT PETROL,Automatic,53796,Petrol,636000
+123,2020,Maruti,New Wagon-R LXI CNG 1.0,Manual,12950,CNG,526000
+124,2021,Maruti,New Wagon-R LXI CNG (O) 1.0,Manual,39613,CNG,586000
+125,2015,Maruti,Wagon R 1.0 VXI,Manual,30942,Petrol,314000
+126,2013,Maruti,Wagon R 1.0 LXI CNG,Manual,75349,CNG,295000
+127,2015,Maruti,Wagon R 1.0 VXI,Manual,28048,Petrol,324000
+128,2015,Maruti,Wagon R 1.0 VXI,Manual,40716,Petrol,333000
+129,2013,Maruti,Wagon R 1.0 VXI,Manual,68427,Petrol,283000
+130,2019,Maruti,S PRESSO VXI PLUS AMT,Automatic,21125,Petrol,463999
+131,2021,Maruti,New Wagon-R LXI CNG 1.0,Manual,30981,CNG,595000
+132,2022,Maruti,New Wagon-R LXI 1.0,Manual,31378,Petrol,576000
+133,2013,Maruti,Swift Dzire ZDI,Manual,120050,Diesel,448000
+134,2022,Maruti,S PRESSO VXI+,Manual,10815,Petrol,486000
+135,2021,Maruti,New Wagon-R VXI (O) 1.2,Manual,19528,Petrol,538000
+136,2017,Maruti,Wagon R 1.0 VXI AMT,Automatic,78285,Petrol,382000
+137,2022,Maruti,S PRESSO VXI (O) CNG,Manual,31772,CNG,499000
+138,2019,Maruti,New Wagon-R VXI 1.2,Manual,37678,Petrol,482000
+139,2021,Maruti,New Wagon-R LXI CNG (O) 1.0,Manual,36188,CNG,608000
+140,2017,Maruti,IGNIS DELTA 1.2,Manual,30176,Petrol,438000
+141,2019,Maruti,S PRESSO VXI+,Manual,4296,Petrol,430999
+142,2019,Maruti,IGNIS ALPHA 1.2,Manual,22343,Petrol,529000
+143,2018,Maruti,Baleno ALPHA CVT PETROL 1.2,Automatic,33155,Petrol,627000
+144,2021,Maruti,New Wagon-R LXI CNG (O) 1.0,Manual,50418,CNG,592000
+145,2015,Maruti,Ciaz ZDI+ SHVS,Manual,46320,Diesel,602000
+146,2019,Maruti,Ciaz DELTA AT 1.5 SHVS PETROL,Automatic,54408,Petrol,695000
+147,2021,Maruti,S PRESSO VXI PLUS AMT,Automatic,26592,Petrol,443000
+148,2021,Maruti,New Wagon-R LXI CNG 1.0,Manual,13032,CNG,629000
+149,2017,Maruti,IGNIS DELTA 1.2,Manual,56219,CNG,430999
+150,2014,Maruti,Wagon R 1.0 LXI CNG,Manual,105898,CNG,314000
+151,2019,Maruti,S PRESSO VXI+,Manual,8458,Petrol,436000
+152,2020,Maruti,S PRESSO VXI PLUS AMT,Automatic,34771,Petrol,441000
+153,2021,Maruti,Ciaz DELTA AT 1.5 SHVS PETROL,Automatic,16992,Petrol,958000
+154,2016,Maruti,Baleno DELTA CVT PETROL 1.2,Automatic,58631,Petrol,505000
+155,2016,Maruti,Celerio VXI CNG,Manual,90227,CNG,401000
+156,2022,Maruti,New Wagon-R ZXI 1.2,Manual,4466,Petrol,616000
+157,2015,Maruti,Ertiga ZDI,Manual,74602,Diesel,708000
+158,2019,Maruti,S PRESSO VXI+,Manual,11141,Petrol,413999
+159,2020,Maruti,S PRESSO VXI (O) AMT,Automatic,13440,Petrol,478000
+160,2016,Maruti,Baleno DELTA PETROL 1.2,Manual,43373,Petrol,492000
+161,2017,Maruti,IGNIS ZETA 1.2 AMT DUAL TONE,Automatic,38048,Petrol,490000
+162,2021,Maruti,New Wagon-R VXI 1.2,Manual,18693,Petrol,559000
+163,2021,Maruti,Ciaz ALPHA  AT 1.5 SHVS PETROL,Automatic,33706,Petrol,976000
+164,2022,Maruti,New Wagon-R ZXI 1.2,Manual,20987,Petrol,612000
+165,2017,Maruti,Baleno DELTA PETROL 1.2,Manual,62669,Petrol,531000
+166,2020,Maruti,Ciaz ALPHA  AT 1.5 SHVS PETROL,Automatic,23697,Petrol,905000
+167,2020,Maruti,Ciaz ALPHA  AT 1.5 SHVS PETROL,Automatic,31021,Petrol,892000
+168,2016,Maruti,Baleno DELTA PETROL 1.2,Manual,9508,Petrol,528000
+169,2020,Maruti,S PRESSO VXI CNG,Manual,37608,CNG,438000
+170,2015,Maruti,Celerio VXI CNG,Manual,83704,CNG,420000
+171,2015,Maruti,Ciaz ZXI+ RS,Manual,19612,Petrol,515000
+172,2018,Maruti,Wagon R 1.0 LXI CNG,Manual,48605,CNG,399000
+173,2012,Maruti,Alto 800 LXI,Manual,18489,Petrol,194000
+174,2010,Maruti,A Star VXI,Manual,46984,Petrol,149000
+175,2015,Maruti,Wagon R 1.0 LXI CNG,Manual,11994,CNG,338000
+176,2016,Maruti,Swift Dzire VXI,Manual,34315,Petrol,473000
+177,2014,Maruti,Alto 800 LXI,Manual,40797,Petrol,227000
+178,2021,Maruti,Dzire VXI,Manual,18343,Petrol,644000
+179,2019,Maruti,New Wagon-R LXI CNG 1.0,Manual,34544,CNG,496000
+180,2022,Maruti,New Wagon-R LXI CNG 1.0,Manual,33292,CNG,639000
+181,2015,Maruti,Wagon R 1.0 LXI CNG,Manual,81560,CNG,347000
+182,2017,Maruti,Ertiga ZDI + SHVS,Manual,44741,Diesel,886999
+183,2015,Maruti,Celerio VXI AMT,Automatic,73092,Petrol,327000
+184,2021,Maruti,Ciaz DELTA AT 1.5 SHVS PETROL,Automatic,29291,Petrol,884000
+185,2020,Maruti,S PRESSO VXI CNG,Manual,26321,CNG,449000
+186,2022,Maruti,Eeco 5 STR AC CNG,Manual,11048,CNG,617000
+187,2014,Maruti,Swift ZDI,Manual,95142,Diesel,466000
+188,2017,Maruti,Swift ZXI,Manual,29424,Petrol,499000
+189,2016,Maruti,Baleno ZETA CVT PETROL 1.2,Automatic,36054,Petrol,513000
+190,2014,Maruti,Celerio VXI AMT,Automatic,91771,Petrol,329000
+191,2015,Maruti,Celerio VXI,Manual,51071,Petrol,300000
+192,2017,Maruti,Dzire ZDI AMT,Automatic,69399,Diesel,600000
+193,2015,Maruti,Ertiga VXI CNG,Manual,52143,CNG,589000
+194,2017,Maruti,Baleno DELTA PETROL 1.2,Manual,57626,Petrol,476999
+195,2016,Maruti,Ertiga VXI CNG,Manual,63006,CNG,679000
+196,2017,Maruti,Baleno SIGMA PETROL 1.2,Manual,76316,Petrol,429000
+197,2017,Maruti,Baleno DELTA CVT PETROL 1.2,Automatic,24192,Petrol,532000
+198,2012,Maruti,Swift VXI,Manual,52117,Petrol,303000
+199,2018,Maruti,Celerio VXI CNG,Manual,71263,CNG,409999
+200,2018,Maruti,Ertiga ZDI SHVS,Manual,47225,Diesel,822000
+201,2014,Maruti,Ertiga VXI,Manual,65000,Petrol,535000
+202,2021,Maruti,Celerio ZXI (O),Manual,23012,Petrol,501999
+203,2023,Maruti,New Wagon-R LXI 1.0,Manual,1958,Petrol,589000
+204,2020,Maruti,New Wagon-R ZXI 1.2 AMT,Automatic,24495,Petrol,549000
+205,2014,Maruti,Wagon R 1.0 LXI CNG,Manual,94053,CNG,301000
